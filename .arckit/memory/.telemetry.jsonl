@@ -1,0 +1,5 @@
+{"ts":"2026-05-21T12:11:12.862Z","kind":"hook_duration","tool":"AskUserQuestion","duration_ms":0,"effort":"high"}
+{"ts":"2026-05-21T12:17:25.472Z","kind":"hook_duration","tool":"Write","duration_ms":61,"effort":"high"}
+{"ts":"2026-05-21T12:19:00.864Z","kind":"hook_duration","tool":"Read","duration_ms":207,"effort":"high"}
+{"ts":"2026-05-21T12:26:59.970Z","kind":"hook_duration","tool":"Write","duration_ms":87,"effort":"high"}
+{"ts":"2026-05-21T12:38:22.506Z","kind":"hook_duration","tool":"Bash","duration_ms":1477,"effort":"xhigh"}

@@ -1,0 +1,14 @@
+{
+  "generated": "2026-05-21T12:08:48.987Z",
+  "sessions": [
+    {
+      "ts": "2026-05-21T12:08:48.987Z",
+      "type": "general",
+      "isFailure": false,
+      "commits": 1,
+      "filesChanged": 11,
+      "artifacts": [],
+      "effort": "xhigh"
+    }
+  ]
+}
